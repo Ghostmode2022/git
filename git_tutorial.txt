@@ -1,0 +1,6 @@
+git init
+git clone <link to the repo>
+cd "directory which is downloaded"
+git add "filename"
+git commit -m "comment of the upload"
+git push
